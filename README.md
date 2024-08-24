@@ -1,9 +1,10 @@
 # SQL_Project_Music_Store_Analysis
 SQL project to analyze online music store data
 
-Digital Music Store Data Analysis using PostgreSQL
+# Digital Music Store Data Analysis using PostgreSQL
 
 Tools Used: PostgreSQL, pgAdmin 4
+
 Project Description:
 
 Conducted an in-depth analysis of a music store dataset by writing optimized SQL queries in PostgreSQL.
